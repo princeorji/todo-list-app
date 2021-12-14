@@ -18,24 +18,24 @@ This is a todo-list app that allow users to set reminders on tasks and deadlines
     pip install -r requirements.txt
   ```
 
-## API Reference
+## API References
 
-#### Get a list of all tasks 
+  * Get a list of all tasks 
 
 ```
   http://127.0.0.1:8000/src/todo-list/
 ```
-#### Create a task
+  * Create a task
 
 ```
   http://127.0.0.1:8000/src/create-todo/
 ```
-#### Update a task
+  * Update a task
 
 ```
   http://127.0.0.1:8000/src/update-todo/id/
 ```
-#### Delete a task
+  * Delete a task
 
 ```
   http://127.0.0.1:8000/src/delete-todo/id/
